@@ -1,8 +1,10 @@
 # HR-Analytics-Dashboard
 HR Analytics Dashboard: Employee Attrition, Performance, and Satisfaction Insights
 
-![Screenshot 2024-09-16 163513](https://github.com/user-attachments/assets/4376ce0c-408c-4343-942b-9715adfe50a0)
-![Screenshot 2024-09-16 163537](https://github.com/user-attachments/assets/75fc9ce1-ab6c-44cf-a79f-b45494bb6d51)
+![image](https://github.com/user-attachments/assets/aa7e8071-992a-4896-9491-725cd483bd08)
+
+![image](https://github.com/user-attachments/assets/84cfb310-9c48-47a6-82a2-a484803d5030)
+
 
 ## Overview
 This Power BI dashboard provides insights into employee performance, attrition, and satisfaction based on HR analytics data. It allows HR managers and stakeholders to analyze various aspects such as employee job satisfaction, work-life balance, training opportunities, and attrition trends. This data-driven approach can help identify factors influencing employee retention and performance, allowing for informed decision-making.
@@ -62,6 +64,6 @@ The dashboard is based on the following key datasets:
     Open Power BI: Open the Power BI file containing the dashboard.
     Connect to Data: Load the datasets to visualize employee attrition and performance trends.
     Explore Dashboard: Use the provided filters to drill down into specific departments, employee groups, or satisfaction levels for detailed insights.
-Interpret Results: Gain actionable insights to improve employee retention, optimize performance reviews, and address factors contributing to job satisfaction.
-Conclusion
-This dashboard provides a comprehensive view of HR analytics, focusing on employee attrition, performance, and satisfaction. By leveraging the insights from this dashboard, organizations can make strategic decisions to enhance employee satisfaction, retention, and overall company performance.
+    Interpret Results: Gain actionable insights to improve employee retention, optimize performance reviews, and address factors contributing to job satisfaction.
+## Conclusion
+    This dashboard provides a comprehensive view of HR analytics, focusing on employee attrition, performance, and satisfaction. By leveraging the insights from this dashboard, organizations can make strategic decisions to enhance employee satisfaction, retention, and overall company performance.

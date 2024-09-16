@@ -1,5 +1,6 @@
 # HR-Analytics-Dashboard
 HR Analytics Dashboard: Employee Attrition, Performance, and Satisfaction Insights
+
 ![Screenshot 2024-09-16 163513](https://github.com/user-attachments/assets/4376ce0c-408c-4343-942b-9715adfe50a0)
 ![Screenshot 2024-09-16 163537](https://github.com/user-attachments/assets/75fc9ce1-ab6c-44cf-a79f-b45494bb6d51)
 

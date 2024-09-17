@@ -1,9 +1,7 @@
 # HR-Analytics-Dashboard
 HR Analytics Dashboard: Employee Attrition, Performance, and Satisfaction Insights
-
-![image](https://github.com/user-attachments/assets/aa7e8071-992a-4896-9491-725cd483bd08)
-
-![image](https://github.com/user-attachments/assets/84cfb310-9c48-47a6-82a2-a484803d5030)
+![image](https://github.com/user-attachments/assets/7859e373-afd2-44d6-b008-f18f29e268a1)
+![image](https://github.com/user-attachments/assets/6d936dfc-5efd-4c97-a13d-d41ed52ae156)
 
 ## Overview
 This Power BI dashboard provides insights into employee performance, attrition, and satisfaction based on HR analytics data. It allows HR managers and stakeholders to analyze various aspects such as employee job satisfaction, work-life balance, training opportunities, and attrition trends. This data-driven approach can help identify factors influencing employee retention and performance, allowing for informed decision-making.
